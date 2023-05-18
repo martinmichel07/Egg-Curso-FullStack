@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Implementation-Title: KIE :: Public API
+Implementation-Version: 7.28.0.Final
+Java-Version: 1.8.0_201
+Built-By: jenkins
+Scm-Connection: scm:git:https://github.com/kiegroup/droolsjbpm-knowled
+ ge.git/kie-api
+Specification-Vendor: JBoss by Red Hat
+Os-Arch: amd64
+Specification-Title: KIE :: Public API
+Implementation-Vendor-Id: org.kie
+Java-Vendor: Oracle Corporation
+Os-Name: Linux
+Scm-Url: https://github.com/kiegroup/droolsjbpm-knowledge/kie-api
+Implementation-Vendor: JBoss by Red Hat
+Os-Version: 3.10.0-514.el7.x86_64
+Scm-Revision: ceb7710a1ee71af72e9c74b669967b61b84e13a0
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_201
+Specification-Version: 7.28
+Implementation-URL: http://www.kiegroup.org/kie-api-parent/kie-api
+
